@@ -4,9 +4,6 @@
   </h1>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tikesh097&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tikesh-aswale-861115178/"><img src="https://img.shields.io/badge/-Tikesh%20Aswale-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -40,33 +37,11 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tikesh097&theme=tokyonight" alt="Tikesh097's streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tikesh097&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tikesh097&show_icons=true&locale=en&theme=tokyonight" alt="Tikesh097's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tikesh097&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tikesh097&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Tikesh097's top languages" />
-</div>
-
-<style>
-  .github-stats img {
-    display: inline-block;
-    transition: transform 0.3s ease-in-out;
-  }
-  .github-stats img:hover {
-    transform: scale(1.05);
-  }
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  .float {
-    animation: float 3s ease-in-out infinite;
-  }
