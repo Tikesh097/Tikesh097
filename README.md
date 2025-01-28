@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tikesh-aswale-861115178/"><img src="https://img.shields.io/badge/-Tikesh%20Aswale-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:aswaletinku@gmail.com"><img src="https://img.shields.io/badge/-aswaletinku@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/Tikesh097"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://tikesh-portfolioprofile.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
